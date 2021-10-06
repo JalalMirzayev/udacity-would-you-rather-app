@@ -2,10 +2,6 @@
 
 The whole project was written from scratch. The only piece of the application which was supplied by Udacity is the `_data.js` file which is located inside of the folder `./src/services/_data.js`. The user interface of the application was created with components form Material-UI (version `4.12.3`). Redux was used as the state management library. In order to reduce boilerplate code the Redux-Toolkit was used.
 
-# Demo Page
-
-The demo application is hosted on Netlify.
-
 ## Installation
 
 To get started developing right away:
